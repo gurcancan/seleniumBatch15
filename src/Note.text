@@ -1,0 +1,26 @@
+If I want to navigate to a website, how many methods do I have?
+1. driver.get();
+2. driver.navigate();
+
+    get:
+  1.with get we can not move forward backward or refresh
+  2. get will wait until the whole webpage has loaded
+
+    navigate:
+  1. with navigate we can move forward backward or refresh
+
+
+1. How to integrate your project with the selenium jars
+    a.create a project in intellij
+    b.add the jars to the project in project structure
+
+2. how to open
+
+
+
+Html:
+    <html xxyy> abcd </html>
+
+    html : tag
+    xxyy : atribute
+    abcd : text

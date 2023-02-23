@@ -1,0 +1,20 @@
+What are locators?
+    Locators in selenium help us to fing the webElements.
+
+How many locators we have?
+
+   8 locaters
+    -Id
+    -Name
+    -Class
+    -linktext --> they can only be used with a link and it must have a text (a link is usually in the tag <a> )
+    -partiallinkText --> they can only be used with a link and it must have a text (a link is usually in the tag <a> )
+    -Tagname --> //a
+    -xpath
+    -css selector
+
+
+ Why do we need so many locators?
+    -- sometimes there might be a locator with dupplicate value
+    -- sometimes the developers might not provide you with all the locators
+
